@@ -1,0 +1,29 @@
+body{
+    font-family: 'Cabin', sans-serif;
+    font-family: 'Kaushan Script', cursive;
+    line-height: 1.3;
+    background: url(../zadaniya/img/imgonline-com-ua-Blur-LG1tkxQrgrAm1j.jpg);
+    background-size: cover;
+ }
+ .stroka {
+    margin-left: 1.5cm;
+    line-height: 0px;
+ }
+ 
+ .stroka2 {
+    margin: 20px;
+    margin-left: 2cm;
+ }
+
+ .meri {
+    margin-left: 1.4cm;
+    line-height: 0.2
+ }
+
+ .karti {
+   margin-left: 1.0cm;
+ }
+
+ .stroka3 {
+   line-height: 0.7px;
+ }
