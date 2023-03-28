@@ -1,0 +1,32 @@
+.main-menu {display: flex;
+justify-content: space-between;} 
+.main-menu p {font-size: 56px;
+    font-weight: 700;
+}
+.wrapper{
+ max-width: 1920px;
+ margin: 0 auto;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;}
+ .main-menu p {
+    margin-top: 15px;
+ }
+.main-menu {
+ margin: 10px 0;
+ height: 20px;
+ font-size: 20px;
+ line-height: 41px;}
+.main-menu ul li {
+display: inline-block;
+margin-left: 20px;}
+.main-menu ul li a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #000;
+}
+.box img{
+    position: fixed;
+    margin-top: 40px;
+    background-image:url(../giro/img/scooter-3620869_960_720.jpg) no-repeat;
+    width: 1920px;
+    height: 700px;
+}
