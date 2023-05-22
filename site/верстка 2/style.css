@@ -1,0 +1,58 @@
+.wrapper {
+    max-width: 1026px;
+    margin: 0 auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    display: flex;
+}
+.button {
+    text-align:center; 
+}   
+.region {
+   margin-right: auto;
+   display: inline;
+   display: flex;
+   margin-left: 700px;
+}
+body{
+    background-color: #8be8ff8f;
+}
+.shapka{
+    position: relative 0 100 100 100px;
+}
+.Logo{
+    float: left;
+}
+.gx {
+    display: flex;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;  
+}
+.zacel{
+    display: flex;
+    margin-left: 800px;
+    margin-bottom: 0px;
+    padding: 0px;
+}
+.visel{
+    display: flex;
+    margin-left: 800px;
+    margin-top: 0px;
+    width: 200px;
+    height: 20px;
+    padding: 0px;
+}
+.gx li{
+    margin-inline:10px;
+}
+.visel p{
+    background-color: aqua;
+}
+.omska{
+    margin-left: 700px;
+    margin-top: 50px;
+}
+.krasn{
+    margin-left: 700px;
+}
+.altai{
+    margin-left: 700px;
+}

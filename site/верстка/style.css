@@ -1,0 +1,57 @@
+.wrapper {
+    max-width: 1026px;
+    margin: 0 auto;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    text-align: left;
+}
+.qwerty{
+    text-align: center;
+    color: rgb(255, 0, 0);
+}
+.banner {
+    text-align: center;
+}
+.end{
+    display: center;
+    justify-content: right;
+    text-align: center;
+
+}
+.deviz {
+    text-align: center;
+    color: black;
+}
+.gg {
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+.gaben {
+    top: 100px;
+    display: flex;
+    align-items: flex-start;
+    justify-content: space-between;
+}
+ul.gx{
+    margin: 0px;
+    padding: 4px;
+
+}
+ul.gx li{
+    display: inline;
+    margin-right: 5px; 
+
+}
+.shapka{ 
+    margin-left: auto;
+    display: flex;
+    justify-content: space-between;
+}
+body{
+    background-color: #f8ed8e8a;
+  
+}
+.lokazi {
+    display: flex;
+    justify-content: space-between;
+}
